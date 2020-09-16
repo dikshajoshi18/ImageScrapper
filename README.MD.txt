@@ -1,0 +1,1 @@
+this is an image scrapper using python for scrapping images out of google for creating dataset for models.
